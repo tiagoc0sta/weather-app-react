@@ -8,6 +8,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Project in progress
+
 Technologies used:
 - ReactJS
 - axios
+
+
+- https://www.youtube.com/watch?v=UjeXpct3p7M
