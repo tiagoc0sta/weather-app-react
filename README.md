@@ -1,5 +1,5 @@
 
-# ReactJS web app NextJS - Ignite Shop 
+# ReactJS web app Weather app  - responsive
 
 
 
